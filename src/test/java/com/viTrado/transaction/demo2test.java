@@ -2,7 +2,7 @@ package com.viTrado.transaction;
 
 import org.testng.annotations.Test;
 
-public class demo2
+public class demo2test
 {
 	@Test
 	public void demo2Test()
