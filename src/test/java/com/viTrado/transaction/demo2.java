@@ -9,6 +9,7 @@ public class demo2
 	{
 		System.out.println("Demo 2 ");
 		System.out.println("approve 2");
+		System.out.println("approve 5");
 	}
 
 }
