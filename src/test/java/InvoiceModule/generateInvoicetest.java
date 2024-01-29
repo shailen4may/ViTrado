@@ -2,7 +2,7 @@ package InvoiceModule;
 
 import org.testng.annotations.Test;
 
-public class generateInvoiceTest
+public class generateInvoicetest
 {
 		@Test
 		public void invoiceTest()
